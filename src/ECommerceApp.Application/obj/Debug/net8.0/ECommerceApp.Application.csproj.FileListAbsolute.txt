@@ -1,0 +1,15 @@
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/bin/Debug/net8.0/ECommerceApp.Application.deps.json
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/bin/Debug/net8.0/ECommerceApp.Application.dll
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/bin/Debug/net8.0/ECommerceApp.Application.pdb
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/bin/Debug/net8.0/ECommerceApp.Core.dll
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/bin/Debug/net8.0/ECommerceApp.Core.pdb
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/obj/Debug/net8.0/ECommerceApp.Application.csproj.AssemblyReference.cache
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/obj/Debug/net8.0/ECommerceApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/obj/Debug/net8.0/ECommerceApp.Application.AssemblyInfoInputs.cache
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/obj/Debug/net8.0/ECommerceApp.Application.AssemblyInfo.cs
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/obj/Debug/net8.0/ECommerceApp.Application.csproj.CoreCompileInputs.cache
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/obj/Debug/net8.0/ECommerc.708A6477.Up2Date
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/obj/Debug/net8.0/ECommerceApp.Application.dll
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/obj/Debug/net8.0/refint/ECommerceApp.Application.dll
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/obj/Debug/net8.0/ECommerceApp.Application.pdb
+/home/user/Documents/hexagonal-ecommerce/src/ECommerceApp.Application/obj/Debug/net8.0/ref/ECommerceApp.Application.dll

@@ -11,11 +11,10 @@ namespace ECommerceApp.Infrastructure.Repositories
     {
         private readonly ECommerceDbContext _context;
 
-        public ProductRepository(ECommerceDbContext context)
-        {
-            _context = context;
-        }
-
+    public ProductRepository(ECommerceDbContext context)
+    {
+        _context = context ?? throw new ArgumentNullException(nameof(context));
+    }
         public async Task<Product> GetByIdAsync(int id)
         {
             return await _context.Products.FindAsync(id);
@@ -34,13 +33,13 @@ namespace ECommerceApp.Infrastructure.Repositories
 
         public async Task UpdateAsync(Product product)
         {
-            _context.Products.Update(product);
+            _context.Entry(product).State = EntityState.Modified;
             await _context.SaveChangesAsync();
         }
 
         public async Task DeleteAsync(int id)
         {
-            var product = await _context.Products.FindAsync(id);
+            var product = await GetByIdAsync(id);
             if (product != null)
             {
                 _context.Products.Remove(product);
